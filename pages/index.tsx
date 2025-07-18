@@ -1,0 +1,8 @@
+export default function Home() {
+  return (
+    <div style={{ textAlign: 'center', marginTop: '50px' }}>
+      <h1>¡Ya estamos en el juego de La Ruleta pataleta!</h1>
+      <p>Tu app está corriendo en Next.js desde Vercel.</p>
+    </div>
+  );
+}
